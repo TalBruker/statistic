@@ -1,0 +1,2 @@
+# statistic
+statistics homework.
